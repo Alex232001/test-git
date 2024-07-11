@@ -1,1 +1,2 @@
-test 
+def x():
+   print(0) 
